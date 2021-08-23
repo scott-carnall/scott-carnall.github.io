@@ -133,6 +133,7 @@ ul{
     padding-right: 250px;
     line-height: 1.5;
     letter-spacing: 3px;
+    position: relative;
 }
 
 .btn-group{
